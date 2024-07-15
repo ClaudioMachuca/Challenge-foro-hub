@@ -4,7 +4,7 @@
 
 Esta API desarrollada en Spring Boot proporciona funcionalidades para gestionar tópicos, usuarios y respuestas en una plataforma de un Foro. Permite a los usuarios registrar tópicos, respuestas, actualizar estados, y administrar usuarios, asegurando la integridad y seguridad de los datos a través de validaciones y autenticación JWT.
 
-# ⚙️ Funciones de la aplicacion
+## ⚙️ Funciones de la aplicacion
 
 - Registro y autenticación de usuarios.
 - Creación, edición y eliminación de tópicos.
@@ -12,7 +12,7 @@ Esta API desarrollada en Spring Boot proporciona funcionalidades para gestionar 
 - Listado de usuarios y tópicos.
 - Autenticación mediante JWT.
 
-# 💻 Tecnologias utilizadas
+## 💻 Tecnologias utilizadas
 
 - Java Spring Framework
 - MySql
@@ -29,4 +29,8 @@ Esta API desarrollada en Spring Boot proporciona funcionalidades para gestionar 
 - Formacion Java y Spring Boot G6 - ONE
 - Alura Latam
 - Oracle Next Education
+
+## 📝 Licencias 
+
+Este proyecto está bajo la licencia MIT - ver el archivo LICENSE para más detalles.
   
